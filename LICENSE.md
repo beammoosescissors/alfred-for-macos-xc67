@@ -1,4 +1,4 @@
-
+Alfred for macOS secure Workflow - dark mode and custom shortcuts offers the most advanced Alfred for macOS workflow, with dark mode and custom shortcuts. Ideal for professionals.
 
 
 
